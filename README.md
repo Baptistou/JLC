@@ -23,4 +23,12 @@ int main(){
 Hello Github !
 ```
 
+--------------------------------------------------------------------------------
+
+Compiler support : Clang 1.0+, GCC 4.2.1+.
+
+- [CHANGELOG](CHANGELOG.md)
+- [LICENSE](LICENSE)
+- [WIKI](https://github.com/Baptistou/JLC/wiki)
+
 *Designed by Baptiste Thémine*
