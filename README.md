@@ -9,8 +9,9 @@ In an effort to prevent developper's brain collapsing and nightmares, JLC provid
 Furthermore, every JLC classes are designed to use as less pointers as possible in production code, which greatly improves developper experience.
 
 This is a small overview of features provided by JLC :
+
 ```cpp
-#include "JLC/JLC.h"
+#include <JLC/JLC.h>
 using namespace jlc;
 
 int main(){
@@ -36,7 +37,7 @@ Good reading !
 
 Language support : C++98, C++11, C++14, C++17, C++20.
 
-Compiler support : Clang 1.0+, GCC 4.2.1+.
+Compiler support : Clang 1+, GCC 4+.
 
 - [CHANGELOG](CHANGELOG.md)
 - [LICENSE](LICENSE)
