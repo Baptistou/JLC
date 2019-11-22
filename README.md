@@ -33,6 +33,24 @@ Hello Github !
 In hope that you will love JLC, you will find more information and code examples in the [wiki](https://github.com/Baptistou/JLC/wiki).
 Good reading !
 
+JLC is still under construction ! Keep in touch !
+
+- [ ] array.h
+- [ ] calendar.h
+- [ ] collection.h
+- [ ] containers.h
+- [x] debug.h
+- [ ] functions.h
+- [x] JLC.h
+- [ ] list.h
+- [ ] map.h
+- [ ] queue.h
+- [ ] range.h
+- [ ] set.h
+- [ ] stack.h
+- [ ] stream.h
+- [ ] string.h
+
 --------------------------------------------------------------------------------
 
 Language support : C++98, C++11, C++14, C++17, C++20.
