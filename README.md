@@ -10,9 +10,9 @@ Furthermore, every JLC classes are designed to use as less pointers as possible 
 
 This is a small overview of features provided by JLC :
 
-```cpp
+```c++
 #include <JLC/JLC.h>
-using namespace jlc;
+using namespace JLC;
 
 int main(){
     String str = "hello dear github user !";
@@ -26,11 +26,12 @@ int main(){
         << std::endl;
 }
 ```
+
 ```
 Hello Github !
 ```
 
-In hope that you will love JLC, you will find more information and code examples in the [wiki](https://github.com/Baptistou/JLC/wiki).
+In hope that you will love JLC, you will find more information and code examples in the [wiki].
 Good reading !
 
 JLC is still under construction ! Keep in touch !
@@ -57,8 +58,12 @@ Language support : C++98, C++11, C++14, C++17, C++20.
 
 Compiler support : Clang 1+, GCC 4+.
 
-- [CHANGELOG](CHANGELOG.md)
-- [LICENSE](LICENSE)
-- [WIKI](https://github.com/Baptistou/JLC/wiki)
+- [CHANGELOG]
+- [LICENSE]
+- [WIKI]
 
 *Designed by Baptiste Thémine*
+
+[CHANGELOG]: CHANGELOG.md
+[LICENSE]: LICENSE
+[WIKI]: https://github.com/Baptistou/JLC/wiki
